@@ -58,7 +58,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Lenzi1902/Lenzi1902/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Lenzi/Lenzi/output/snake.svg" alt="Snake animation" />
 
 ###
 
