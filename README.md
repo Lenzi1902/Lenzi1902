@@ -48,6 +48,7 @@
   <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+  <img src="https://res.cloudinary.com/dteuj87u5/image/upload/v1760533875/Elastic_Search_ybjmyw.png" height="60" alt="Elastic search"  />
 </div>
 
 ###
